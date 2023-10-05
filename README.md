@@ -100,3 +100,12 @@ MONGO_DB_URL="mongodb://localhost:270XXXXXXXXXX"
 AWS_ACCESS_KEY_ID="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 AWS_SECRET_ACCESS_KEY="XXXXXXXXXXXXXXXXXXXXXXXX"
 ```
+Note: Setup MongoDB Connection By Adding your ip in Network Access and grant access
+add your ip by adding 
+```
+0.0.0.0/0
+```
+connect to database with string
+```
+mongodb+srv://username:<password>@cluster0.lllhm4w.mongodb.net/
+```
