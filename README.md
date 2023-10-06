@@ -109,3 +109,20 @@ connect to database with string
 ```
 mongodb+srv://username:<password>@cluster0.lllhm4w.mongodb.net/
 ```
+
+**Data Collection Architecture :**
+
+
+![data collection](https://github.com/sohel-jagirdar/sensors/assets/52422511/7956a22a-b6ca-4f83-90da-2bce29a6e971)
+
+
+**Project Architecture :**
+
+
+![project arch](https://github.com/sohel-jagirdar/sensors/assets/52422511/ade4e6a2-d5bb-4f6a-b8fe-f9092ea1a91f)
+
+
+**Deployment Architecture :**
+
+
+![deplyement arch](https://github.com/sohel-jagirdar/sensors/assets/52422511/12646343-5d3f-4022-abc1-ea6555a6a3ec)
