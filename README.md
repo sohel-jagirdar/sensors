@@ -126,3 +126,21 @@ mongodb+srv://username:<password>@cluster0.lllhm4w.mongodb.net/
 
 
 ![deplyement arch](https://github.com/sohel-jagirdar/sensors/assets/52422511/12646343-5d3f-4022-abc1-ea6555a6a3ec)
+
+**Airflow Training Pipeline and Retraining Trigger :**
+
+
+![airflow result](https://github.com/sohel-jagirdar/sensors/assets/52422511/ce8c2669-6b23-4f27-8e51-c4f42c0cb589)
+
+
+**Airflow Batch Prediction Pipeline :**
+
+
+![airflow prediction](https://github.com/sohel-jagirdar/sensors/assets/52422511/628faff2-6097-4fe0-92cf-c61b2d3b28a0)
+
+**Amazon S3 Bucket ( Artifact, Saved Models, Input files for Prediction, Prediction Result) :**
+
+
+![S3 Results](https://github.com/sohel-jagirdar/sensors/assets/52422511/51727716-2f88-49f6-9705-3b4cd7be4f63)
+
+
