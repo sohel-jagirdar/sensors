@@ -1,8 +1,8 @@
-**Sensor Component Failure Prediction**
+# Component Failure Prediction using sensor data
 
 # Problem Statement :
 
-Data: Sensor Data
+**Dataset : Sensor Data in CSV form of batche's**
 
 **Problem statement :**
 
